@@ -8,7 +8,7 @@ A Flutter todo app with local persistence using `shared_preferences`.
 
 ![adding task](Screenshot_20260303_044720.jpg)
 ![task made](Screenshot_20260303_044729.jpg)
-![closing app](![Screen 3](Screenshot_20260303_044744_One%20UI%20Home.jpg))
+![closing app](Screenshot_20260303_044744_One%20UI%20Home.jpg))
 ![task persisted](Screenshot_20260303_044757.jpg)
 
 ---
